@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Test commit and push--Derek J 12JUN15
 
 ## Write a short comment describing this function
 
